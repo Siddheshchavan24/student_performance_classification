@@ -3,5 +3,3 @@ streamlit
 pandas
 numpy
 scikit-learn
---upgrade pip
-
